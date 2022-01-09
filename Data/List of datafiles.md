@@ -1,1 +1,1 @@
-
+To download the raw flights data click [here](https://drive.google.com/file/d/1oSSje-PiziHniF8jRfoUrEY20gTUC-xg/view?usp=sharing) This file is a sample of flights from 2018-01-01 to 2018-01-07 and 2019-01-01 to 2019-01-07.
