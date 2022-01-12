@@ -1,3 +1,5 @@
 To download the raw flights data click [here](https://drive.google.com/file/d/1oSSje-PiziHniF8jRfoUrEY20gTUC-xg/view?usp=sharing)   -This file is a sample from the flights data table of flights from 2018-01-01 to 2018-01-07 and 2019-01-01 to 2019-01-07.
 
 To download the cleaned flights data click [here](https://drive.google.com/file/d/16NmtwlcvOi9Jiw6pKPYfBEM7Ri6yH2Cy/view?usp=sharing) -This file is the cleaned(nan removed, duplicate features removed) for the flights data.
+
+To download the raw passengers data click [here](https://drive.google.com/drive/folders/1q6T2iNS-cNJGEjvTyBL1RRz1ggi_w4ZH?ths=true) for the passengers data.
