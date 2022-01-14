@@ -1,9 +1,3 @@
-this folder contains the notebook to run the data prep for the test data.
-the accompanying csv files are for rank features to be appended to the test data set.
-
-
-
-
 file with google drive links to all the test data processing    >:}
 
 
